@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<property><server><server-name>服务器端</server-name><server-ip>192.168.23.77</server-ip><server-port>10116</server-port><server-cnt>10</server-cnt></server><database><DataBaseIP>127.0.0.1\SQLEXPRESS</DataBaseIP><username>sa</username><dataname>gmtools_SD</dataname><password>sa</password></database></property>

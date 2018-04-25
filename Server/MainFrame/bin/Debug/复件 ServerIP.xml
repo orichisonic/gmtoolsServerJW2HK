@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<property><server><server-name>服务器端</server-name><server-ip>192.168.23.46</server-ip><server-port>10116</server-port><server-cnt>10</server-cnt></server><database><DataBaseIP>218.213.69.58</DataBaseIP><username>gmtools</username><dataname>gmtools</dataname><password>J7_90nB5Tv</password></database></property>

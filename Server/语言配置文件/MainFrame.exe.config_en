@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <section name="MainFrame" type="System.Configuration.DictionarySectionHandler" />
+    <section name="Common" type="System.Configuration.DictionarySectionHandler" />
+    <section name="SDO" type="System.Configuration.DictionarySectionHandler" />
+  </configSections>
+  <MainFrame>
+    <add key="ServerSocket_Handler_User" value="User's name" />
+    <add key="ServerSocket_Handler_UserLeft" value="has been cut..." />
+    <add key="ServerSocket_ServerSocket_GMTools_Title" value="Management Tools" />
+    <add key="ServerSocket_ServerSocket_GMTools_Port" value="Monitor the connection from the client-end, interface number:" />
+    <add key="ServerSocket_ServerSocket_GMTools_Accept" value="Accept" />
+    <add key="ServerSocket_ServerSocket_GMTools_Client" value="Client-end" />
+    <add key="ServerSocket_ServerSocket_GMTools_Validate" value="Begin to authentificate ..." />
+    <add key="ServerSocket_Task_Continue" value="Press ENTER and go on." />
+    <add key="ServerSocket_Task_Query" value="Accept the connection requirement from client-end" />
+    <add key="ServerSocket_UpdatePatch_Error" value="Error in receiving the files" />
+  </MainFrame>
+  <Common>
+    <add key="Logic_Exception_Parameter" value="Parameter" />
+    <add key="Logic_Exception_ExpectedType" value="Expected Type" />
+    <add key="Logic_Exception_RealType" value="Real Type" />
+    <add key="Logic_Exception_ExpectedValue" value="Expected Type" />
+    <add key="Logic_Exception_RealValue" value="Real Type" />
+    <add key="Logic_Exception_Error" value="Error" />
+    <add key="Logic_TLV_Structure_NumLength" value="Input the number with the length form 11-12"/> 
+    <add key="Logic_TLV_Structure_TagFormatType" value="TagFormat All types that are defined " /> 
+    <add key="Logic_UserValidate_User" value=" User's name" />
+    <add key="Logic_UserValidate_AcceptData" value="Pass the authentification and begin to accept the data" />
+    <add key="Logic_UserValidate_ValidateFailue" value="Authentification failed" />
+    <add key="Logic_UserValidate_LoggingFailue" value="Has been online and fail to login." />  
+    <add key="API_Add" value="Add" />
+    <add key="API_Delete" value="Delete" />
+    <add key="API_Update" value="Update" />
+    <add key="API_Success" value="Succeed" />
+    <add key="API_Failure" value="Fail" />
+    <add key="API_Display" value="Display" /> 
+    <add key="API_Description" value="Description" />  
+    <add key="API_CommonAPI_NewServer" value="New game sever" />
+    <add key="API_CommonAPI_GameID" value="Game ID" />
+    <add key="API_CommonAPI_ServerIP" value="Game sever IP" />
+    <add key="API_CommonAPI_GameCity" value="City" />
+    <add key="API_CommonAPI_GameListEmpty" value="The game list is empty." />
+    <add key="API_CommonAPI_NoLog" value="Log information is unavailable." />
+    <add key="API_DepartmentAPI_DepInfo" value="Department Information" />
+    <add key="API_DepartmentAPI_NoDepInfo" value="Department information is unavailable." />
+    <add key="API_DepartmentAPI_OperatorID" value="Operator ID" />
+    <add key="API_DepartmentAPI_DepID" value="Department ID" />
+    <add key="API_DepartmentAPI_DepTitle" value="Department Name" />
+    <add key="API_DepartmentAPI_DepDesp" value="Department Description" />
+    <add key="API_DepartmentAPI_GameList" value="Browse the corresponding game list for the tool department." />
+    <add key="API_DepartmentAPI_HoldGame" value="Get all games from the user's department. !" />
+    <add key="API_GameInfoAPI_GameList" value="Game List" />
+    <add key="API_GameInfoAPI_GameID" value="Game ID"/>
+    <add key="API_GameInfoAPI_GameTitle" value="Game Name" />
+    <add key="API_GameInfoAPI_GameDesp" value="Game Description" />
+    <add key="API_GameInfoAPI_GameInfo" value="Game Information" /> 
+    <add key="API_GameInfoAPI_ModuleID" value="Module ID" />
+    <add key="API_GameInfoAPI_ModuleTitle" value="Module Name" />
+    <add key="API_GameInfoAPI_ModuleDesp" value="Module Description" />
+    <add key="API_GameInfoAPI_ModuleClass" value="Module Class" />
+    <add key="API_GameInfoAPI_GameModuleList" value="the Module list for the game" />
+    <add key="API_ModuleInfoAPI_ModuleInfo" value="Module Information" />
+    <add key="API_ModuleInfoAPI_NoModuleInfo" value="Module information is unavailable." /> 
+    <add key="API_ModuleInfoAPI_ModuleList" value="Module List" />
+    <add key="API_ModuleInfoAPI_NoModuleList" value="No Module List" />      
+    <add key="API_NotesInfoAPI_NotesEmailList" value="NOTES Mail List" /> 
+    <add key="API_NotesInfoAPI_NotesTransEmailList" value="NOTES Transmit the mail list" /> 
+    <add key="API_NotesInfoAPI_EmailID" value="Mail ID" />
+    <add key="API_NotesInfoAPI_EmailSubject" value="Mail Subject" />
+    <add key="API_NotesInfoAPI_EmailContent" value="Mail Content" />
+    <add key="API_NotesInfoAPI_EmailSender" value="Mail Sender" />
+    <add key="API_NotesInfoAPI_NoDealWithEmail" value="No mail needed to deal with" />
+    <add key="API_NotesInfoAPI_NoTransDealWithEmail" value="No transmission mail" />
+    <add key="API_NotesInfoAPI_DealWithEmailFailure" value="Dealing with mail failed" />
+    <add key="API_UserInfoAPI_NoUserList" value="No user's list" />
+    <add key="API_UserInfoAPI_AccountInfo" value="GM Account Information" />
+    <add key="API_UserInfoAPI_Password" value="Password" />
+    <add key="API_UserInfoAPI_NewPassword" value="New Password" />
+    <add key="API_UserInfoAPI_MAC" value="Code" />
+    <add key="API_UserInfoAPI_NoAdmin" value="No the Administrator" />
+    <add key="API_UserInfoAPI_UserStatus" value="User's Status Online"/>
+    <add key="API_UserInfoAPI_LimitDay" value="Time Limit" />
+    <add key="API_UserInfoAPI_UserID" value="User's ID" />
+    <add key="API_UserModuleAPI_NoRecord" value="No Record" />
+    <add key="API_UserModuleAPI_UserAuth" value="User's authority" />
+    <add key="API_UserModuleAPI_UserModule" value="User's Module" />
+  </Common>
+  <SDO>
+    <add key="SDOAPI_SDO" value="Super Dancer Online" />
+    <add key="SDOAPI_SDOChallengeDataAPI_Challenge" value="Challenge" />
+    <add key="SDOAPI_SDOChallengeDataAPI_Scene" value="Scene Information" />
+    <add key="SDOAPI_SDOChallengeDataAPI_SceneProbability" value="Scene Probability Information" />
+    <add key="SDOAPI_SDOChallengeDataAPI_GameMusicList" value="List for Game Music!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_ProbabilityList" value="Check the list for winning the items in the scene!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoChallengeScene" value="No Challenge Scene!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoGameMusicList" value="No List for Game Music!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoSceneList" value="No List for Scene Information!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoProbabilityList" value="No Probability List in the Scene!" />      
+    <add key="SDOAPI_SDOCharacterInfoAPI_NoAccount" value="The player's account doesn't exist!" />
+    <add key="SDOAPI_SDOCharacterInfoAPI_AccountInfo" value="Character Information" />  
+    <add key="SDOAPI_SDOCharacterInfoAPI_NoRelativeInfo" value="No Relative Information for the Player" />     
+    <add key="SDOAPI_SDOItemLogInfoAPI_Account" value="Player" />
+    <add key="SDOAPI_SDOItemLogInfoAPI_FillDetail" value="Recharge Detail" />  
+    <add key="SDOAPI_SDOItemLogInfoAPI_Sum" value="Sum"/>
+    <add key="SDOAPI_SDOItemLogInfoAPI_GCash" value="G cash" />
+    <add key="SDOAPI_SDOItemLogInfoAPI_Compensate" value="Compensate" /> 
+    <add key="SDOAPI_SDOItemLogInfoAPI_NoChargeRecord" value="No Recharge Record for the Player" />   
+    <add key="SDOAPI_SDOItemLogInfoAPI_NoTotalValue" value="No Tatol Value for the Player!" />       
+    <add key="SDOAPI_SDOItemShopAPI_GameItem" value="Game Item Information" /> 
+    <add key="SDOAPI_SDOItemShopAPI_PersonalItem" value="Item on Body" /> 
+    <add key="SDOAPI_SDOItemShopAPI_GiftItem" value="Items in Gift Bot" /> 
+    <add key="SDOAPI_SDOItemShopAPI_OnlineStatus" value="Online and Offline Status" /> 
+    <add key="SDOAPI_SDOItemShopAPI_ConsumeRecord" value="Total Comsuming Record" /> 
+    <add key="SDOAPI_SDOItemShopAPI_TradeRecord" value="Trade Record  " />   
+    <add key="SDOAPI_SDOItemShopAPI_NoItem" value="No Item Currently" /> 
+    <add key="SDOAPI_SDOItemShopAPI_NoItemOnPlayer" value="On Item on the Player" /> 
+    <add key="SDOAPI_SDOItemShopAPI_NoItemOnGift" value="No Item in the Player's Giftbox." />
+    <add key="SDOAPI_SDOItemShopAPI_NoOnlineStatus" value="No Online and Offline Record for the Player" />
+    <add key="SDOAPI_SDOItemShopAPI_NoItemLimit" value="No Item Limit" />
+    <add key="SDOAPI_SDOItemShopAPI_NoChargeRecord" value="No Recharge Record of the Player" />
+    <add key="SDOAPI_SDOItemShopAPI_NoTradeRecord" value="No Trade Record of the Player  " />  
+    <add key="SDOAPI_SDOMemberInfoAPI_ActiveState" value="Activation State" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoActived" value="No Activation for the Player!" />
+    <add key="SDOAPI_SDOMemberInfoAPI_AllBanAccount" value="All Ban Account" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoBanAccount" value="No Ban Account Currently" />
+    <add key="SDOAPI_SDOMemberInfoAPI_BanInfo" value="Ban Information" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoBanInfo" value="No the Player's Ban Information" />
+    <add key="SDOAPI_SDOMemberInfoAPI_AccountUnlock" value="Account Unlock" />
+    <add key="SDOAPI_SDOMemberInfoAPI_AccountLock" value="Account Lock" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoCurrentInfo" value="The player's status information is empty." />
+    <add key="SDOAPI_SDOMemberInfoAPI_CurrentState" value="Current State" />
+  </SDO>
+  <appSettings>
+    <add key="SongPath" value="song.txt" />
+    <add key="ScenePath" value="scene.txt" />
+    <add key="DatPath" value="serverconfig.dat" />
+  </appSettings>
+</configuration>

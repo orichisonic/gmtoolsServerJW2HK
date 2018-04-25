@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <CSHARP LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "E:\宠物森林海外版本\gmtools server(日文MF)\gmtools server(日文MF)\日文MF Server\日文MF Server\FJ\bin\Debug\;E:\宠物森林海外版本\gmtools server(日文MF)\gmtools server(日文MF)\日文MF Server\日文MF Server\MainFrame\bin\Debug\;E:\宠物森林海外版本\gmtools server(日文MF)\gmtools server(日文MF)\日文MF Server\日文MF Server\COMMON\bin\Debug\;E:\宠物森林海外版本\gmtools server(日文MF)\gmtools server(日文MF)\日文MF Server\日文MF Server\MainFrame\bin\Release\;D:\GMTOOLS\bin\Debug\;C:\gmtools server(日文MF)\日文MF Server\日文MF Server\COMMON\bin\Release\;C:\gmtools server(日文MF)\日文MF Server\日文MF Server\MainFrame\bin\Release\;C:\gmtools server(日文MF)\日文MF Server\日文MF Server\MainFrame\bin\Debug\;C:\gmtools server(日文MF)\日文MF Server\日文MF Server\COMMON\bin\Debug\;E:\宠物森林海外版本\gmtools server(日文MF)\gmtools server(日文MF)\Server\Server\FJ\bin\Debug\;E:\宠物森林海外版本\gmtools server(日文MF)\gmtools server(日文MF)\Server\Server\COMMON\bin\Debug\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "true"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "true"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </CSHARP>
+</VisualStudioProject>
+

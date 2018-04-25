@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <section name="MainFrame" type="System.Configuration.DictionarySectionHandler" />
+    <section name="Common" type="System.Configuration.DictionarySectionHandler" />
+    <section name="Audition" type="System.Configuration.DictionarySectionHandler" />
+    <section name="BAF" type="System.Configuration.DictionarySectionHandler" />
+    <section name="O2JAM" type="System.Configuration.DictionarySectionHandler" />
+    <section name="SDO" type="System.Configuration.DictionarySectionHandler" />
+  </configSections>
+  <MainFrame>
+    <add key="ServerSocket_Handler_User" value="用户名" />
+    <add key="ServerSocket_Handler_UserLeft" value="已经断开..." />
+    <add key="ServerSocket_ServerSocket_GMTools_Title" value="GM管理工具" />
+    <add key="ServerSocket_ServerSocket_GMTools_Port" value="监听从客户端的连接，端口号:" />
+    <add key="ServerSocket_ServerSocket_GMTools_Accept" value="接受" />
+    <add key="ServerSocket_ServerSocket_GMTools_Client" value="客户端" />
+    <add key="ServerSocket_ServerSocket_GMTools_Validate" value="开始进行身份验证..." />
+    <add key="ServerSocket_Task_Continue" value="按ENTER健继续." />
+    <add key="ServerSocket_Task_Query" value="接受客户端连接请求" />
+    <add key="ServerSocket_UpdatePatch_Error" value="接收文件时错误" />
+  </MainFrame>
+  <Common>
+    <add key="Logic_Exception_Parameter" value="参数" />
+    <add key="Logic_Exception_ExpectedType" value="预期类型" />
+    <add key="Logic_Exception_RealType" value="实际类型" />
+    <add key="Logic_Exception_ExpectedValue" value="预期类型" />
+    <add key="Logic_Exception_RealValue" value="实际类型" />
+    <add key="Logic_Exception_Error" value="错误" />
+    <add key="Logic_TLV_Structure_NumLength" value="11-12位的数字" />   
+    <add key="Logic_TLV_Structure_TagFormatType" value="TagFormat定义的所有类型" />  
+    <add key="Logic_UserValidate_User" value="用户名" /> 
+    <add key="Logic_UserValidate_AcceptData" value="验证通过,开始接受数据.." />
+    <add key="Logic_UserValidate_ValidateFailue" value="验证失败...." />
+    <add key="Logic_UserValidate_LoggingFailue" value="已经上线,登陆失败.." />    
+    <add key="API_Add" value="添加" />
+    <add key="API_Delete" value="删除" />
+    <add key="API_Update" value="修改" />
+    <add key="API_Success" value="成功" />
+    <add key="API_Failure" value="失败" />
+    <add key="API_Display" value="显示" />  
+    <add key="API_Description" value="描述" />      
+    <add key="API_CommonAPI_NewServer" value="新游戏服务器" />
+    <add key="API_CommonAPI_GameID" value="游戏ID" />
+    <add key="API_CommonAPI_ServerIP" value="游戏服务器IP" />
+    <add key="API_CommonAPI_GameCity" value="城市" />
+    <add key="API_CommonAPI_GameListEmpty" value="游戏列表为空" />
+    <add key="API_CommonAPI_NoLog" value="当前没有操作日志信息" />    
+    <add key="API_DepartmentAPI_DepInfo" value="部门信息" />
+    <add key="API_DepartmentAPI_NoDepInfo" value="没有部门信息" />
+    <add key="API_DepartmentAPI_OperatorID" value="操作员ID" />
+    <add key="API_DepartmentAPI_DepID" value="部门ID" />
+    <add key="API_DepartmentAPI_DepTitle" value="部门名称" />
+    <add key="API_DepartmentAPI_DepDesp" value="部门描述" />
+    <add key="API_DepartmentAPI_GameList" value="浏览工具部门所对应游戏列表!" />
+    <add key="API_DepartmentAPI_HoldGame" value="得到该用户所在部门的所拥有的游戏!" />    
+    <add key="API_GameInfoAPI_GameList" value="游戏列表" />
+    <add key="API_GameInfoAPI_GameID" value="游戏ID" />
+    <add key="API_GameInfoAPI_GameTitle" value="游戏名称" />
+    <add key="API_GameInfoAPI_GameDesp" value="游戏描述" />
+    <add key="API_GameInfoAPI_GameInfo" value="游戏信息" />    
+    <add key="API_GameInfoAPI_ModuleID" value="模块ID" />
+    <add key="API_GameInfoAPI_ModuleTitle" value="模块名称" />
+    <add key="API_GameInfoAPI_ModuleDesp" value="模块描述" />
+    <add key="API_GameInfoAPI_ModuleClass" value="模块类" />
+    <add key="API_GameInfoAPI_GameModuleList" value="游戏所对应模块列表" />
+    <add key="API_ModuleInfoAPI_ModuleInfo" value="模块信息" />
+    <add key="API_ModuleInfoAPI_NoModuleInfo" value="没有模块信息" />  
+    <add key="API_ModuleInfoAPI_ModuleList" value="模块列表" />  
+    <add key="API_ModuleInfoAPI_NoModuleList" value="没有模块列表" />      
+    <add key="API_NotesInfoAPI_NotesEmailList" value="NOTES邮件列表" /> 
+    <add key="API_NotesInfoAPI_NotesTransEmailList" value="NOTES转发邮件列表" /> 
+    <add key="API_NotesInfoAPI_EmailID" value="邮件ID" />
+    <add key="API_NotesInfoAPI_EmailSubject" value="邮件主题" />
+    <add key="API_NotesInfoAPI_EmailContent" value="邮件内容" />
+    <add key="API_NotesInfoAPI_EmailSender" value="邮件发件人" />
+    <add key="API_NotesInfoAPI_NoDealWithEmail" value="没有要处理的邮件" />
+    <add key="API_NotesInfoAPI_NoTransDealWithEmail" value="没有转发过来的邮件" />
+    <add key="API_NotesInfoAPI_DealWithEmailFailure" value="处理邮件失败" />    
+    <add key="API_UserInfoAPI_NoUserList" value="没有用户列表" />
+    <add key="API_UserInfoAPI_AccountInfo" value="GM帐号信息" />
+    <add key="API_UserInfoAPI_Password" value="密码" />
+    <add key="API_UserInfoAPI_NewPassword" value="新密码" />
+    <add key="API_UserInfoAPI_MAC" value="MAC码" />
+    <add key="API_UserInfoAPI_NoAdmin" value="没有该管理员" />
+    <add key="API_UserInfoAPI_UserStatus" value="用户在线状态" />
+    <add key="API_UserInfoAPI_LimitDay" value="使用时限" />
+    <add key="API_UserInfoAPI_UserID" value="用户ID" />    
+    <add key="API_UserModuleAPI_NoRecord" value="没有记录" />
+    <add key="API_UserModuleAPI_UserAuth" value="用户权限" />
+    <add key="API_UserModuleAPI_UserModule" value="用户模块" />
+  </Common>
+  <Audition>
+    <add key="Title" value="Audition" />
+  </Audition>
+  <BAF>
+    <add key="Title" value="BAF" />
+  </BAF>
+  <O2JAM>
+    <add key="Title" value="O2JAM" />
+  </O2JAM>
+  <SDO>
+    <add key="SDOAPI_SDO" value="超级舞者" />
+    <add key="SDOAPI_SDOChallengeDataAPI_Challenge" value="挑战" />
+    <add key="SDOAPI_SDOChallengeDataAPI_Scene" value="场景信息" />
+    <add key="SDOAPI_SDOChallengeDataAPI_SceneProbability" value="场景概率信息" />
+    <add key="SDOAPI_SDOChallengeDataAPI_GameMusicList" value="游戏音乐列表!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_ProbabilityList" value="查找在场景中获得道具概率的列表!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoChallengeScene" value="没有挑战场景!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoGameMusicList" value="没有游戏音乐列表!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoSceneList" value="没有场景信息列表!" />
+    <add key="SDOAPI_SDOChallengeDataAPI_NoProbabilityList" value="没有该场景中获胜概率的列表!" />        
+    <add key="SDOAPI_SDOCharacterInfoAPI_NoAccount" value="玩家帐号不存在!" />
+    <add key="SDOAPI_SDOCharacterInfoAPI_AccountInfo" value="玩家人物资料信息" />  
+    <add key="SDOAPI_SDOCharacterInfoAPI_NoRelativeInfo" value="没有该玩家相关资料信息" />      
+    <add key="SDOAPI_SDOItemLogInfoAPI_Account" value="玩家" />   
+    <add key="SDOAPI_SDOItemLogInfoAPI_FillDetail" value="充值明细" />  
+    <add key="SDOAPI_SDOItemLogInfoAPI_Sum" value="合计" /> 
+    <add key="SDOAPI_SDOItemLogInfoAPI_GCash" value="G币" /> 
+    <add key="SDOAPI_SDOItemLogInfoAPI_Compensate" value="补偿" />   
+    <add key="SDOAPI_SDOItemLogInfoAPI_NoChargeRecord" value="该玩家没有充值记录" />   
+    <add key="SDOAPI_SDOItemLogInfoAPI_NoTotalValue" value="该玩家没有充值合计!" />       
+    <add key="SDOAPI_SDOItemShopAPI_GameItem" value="游戏道具信息" /> 
+    <add key="SDOAPI_SDOItemShopAPI_PersonalItem" value="身上的道具" /> 
+    <add key="SDOAPI_SDOItemShopAPI_GiftItem" value="礼物盒的道具" /> 
+    <add key="SDOAPI_SDOItemShopAPI_OnlineStatus" value="上下线状态" /> 
+    <add key="SDOAPI_SDOItemShopAPI_ConsumeRecord" value="消费记录合计" /> 
+    <add key="SDOAPI_SDOItemShopAPI_TradeRecord" value="交易记录" />     
+    <add key="SDOAPI_SDOItemShopAPI_NoItem" value="当前没有道具" /> 
+    <add key="SDOAPI_SDOItemShopAPI_NoItemOnPlayer" value="该玩家身上没有道具" /> 
+    <add key="SDOAPI_SDOItemShopAPI_NoItemOnGift" value="该玩家礼物盒里面没有道具" />
+    <add key="SDOAPI_SDOItemShopAPI_NoOnlineStatus" value="没有该玩家上下记录线" />
+    <add key="SDOAPI_SDOItemShopAPI_NoItemLimit" value="没有该道具的期限" />
+    <add key="SDOAPI_SDOItemShopAPI_NoChargeRecord" value="该玩家没有消费记录" />
+    <add key="SDOAPI_SDOItemShopAPI_NoTradeRecord" value="该玩家没有交易记录" />    
+    <add key="SDOAPI_SDOMemberInfoAPI_ActiveState" value="激活状态" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoActived" value="该玩家没有激活!" />
+    <add key="SDOAPI_SDOMemberInfoAPI_AllBanAccount" value="所有停封帐号" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoBanAccount" value="当前没有被停封的帐号" />
+    <add key="SDOAPI_SDOMemberInfoAPI_BanInfo" value="封停信息" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoBanInfo" value="没有该玩家停封信息" />
+    <add key="SDOAPI_SDOMemberInfoAPI_AccountUnlock" value="帐号解封" />
+    <add key="SDOAPI_SDOMemberInfoAPI_AccountLock" value="帐号停封" />
+    <add key="SDOAPI_SDOMemberInfoAPI_NoCurrentInfo" value="该玩家当前状态信息为空" />
+    <add key="SDOAPI_SDOMemberInfoAPI_CurrentState" value="当前状态" />
+  </SDO>
+  <appSettings>
+    <add key="SongPath" value="E:\SDO\song.txt" />
+    <add key="ScenePath" value="E:\SDO\scene.txt" />
+    <add key="DatPath" value="E:\SDO\serverconfig.dat" />
+  </appSettings>
+</configuration>

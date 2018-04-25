@@ -1,0 +1,29 @@
+20090601 09:58:02 - [#1772] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 09:59:46 - [#1772] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 10:05:53 - [#1772] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 10:10:12 - [#7456] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 10:10:47 - [#7456] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 10:19:28 - [#7456] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 10:19:54 - [#7456] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 10:26:59 - [#7456] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 10:52:00 - [#7456] 服务器IP218.213.69.245|Invalid object name 'GMTools_Log'.
+20090601 10:52:24 - [#7456] 服务器IP218.213.69.245|Invalid object name 'GMTools_Log'.
+20090601 10:54:41 - [#7456] 服务器IP218.213.69.245|Invalid object name 'GMTools_Log'.
+20090601 11:00:50 - [#7456] 服务器IP218.213.69.245|Invalid object name 'GMTools_Log'.
+20090601 11:02:15 - [#7456] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 11:05:27 - [#7456] 服务器IP218.213.69.245Could not find stored procedure 'sp_InsertGMtoolslog'.
+20090601 11:36:56 - [#7452] SQL Server 不存在或访问被拒绝。
+20090601 11:37:57 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:42:09 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:44:15 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:44:37 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:45:58 - [#7452] SQL Server 不存在或访问被拒绝。
+20090601 11:46:59 - [#7452] SQL Server 不存在或访问被拒绝。
+20090601 11:49:31 - [#7452] SQL Server 不存在或访问被拒绝。
+20090601 11:51:48 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:52:00 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:52:18 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:53:55 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:54:32 - [#7452] 伺服器地址192.168.100.245未将对象引用设置到对象的实例。
+20090601 11:56:20 - [#7452] SQL Server 不存在或访问被拒绝。
+20090601 12:10:13 - [#7452] 伺服器地址218.213.69.245未将对象引用设置到对象的实例。

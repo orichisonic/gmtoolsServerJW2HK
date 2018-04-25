@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainFrame", "MainFrame\MainFrame.csproj", "{A21A3FEF-2B1A-4867-90BF-2F95EC958447}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JW2", "JW2\JW2.csproj", "{E0719892-D134-4A6A-810D-0A4CF022DE17}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/GM管理系统/超级舞者台湾版/GMSERVER\u0022,\u0020QFHBAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SolutionUniqueID = {991EB200-91C8-4BC0-B7C8-53E635336471}
+		SccProjectUniqueName1 = MainFrame\\MainFrame.csproj
+		SccProjectName1 = \u0022$/GM管理系统/超级舞者台湾版/GMSERVER/MainFrame\u0022,\u0020BIHBAAAA
+		SccLocalPath1 = MainFrame
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A21A3FEF-2B1A-4867-90BF-2F95EC958447}.Debug.ActiveCfg = Debug|.NET
+		{A21A3FEF-2B1A-4867-90BF-2F95EC958447}.Debug.Build.0 = Debug|.NET
+		{A21A3FEF-2B1A-4867-90BF-2F95EC958447}.Release.ActiveCfg = Release|.NET
+		{A21A3FEF-2B1A-4867-90BF-2F95EC958447}.Release.Build.0 = Release|.NET
+		{E0719892-D134-4A6A-810D-0A4CF022DE17}.Debug.ActiveCfg = Debug|.NET
+		{E0719892-D134-4A6A-810D-0A4CF022DE17}.Debug.Build.0 = Debug|.NET
+		{E0719892-D134-4A6A-810D-0A4CF022DE17}.Release.ActiveCfg = Release|.NET
+		{E0719892-D134-4A6A-810D-0A4CF022DE17}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

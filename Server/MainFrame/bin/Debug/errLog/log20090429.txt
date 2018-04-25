@@ -1,0 +1,6 @@
+20090429 19:42:58 - [#12160] SQL Server 不存在或访问被拒绝。
+20090429 19:58:07 - [#12188] Login failed for user '(null)'. Reason: Not associated with a trusted SQL Server connection.
+20090429 19:58:50 - [#12188] Login failed for user '(null)'. Reason: Not associated with a trusted SQL Server connection.
+20090429 20:13:42 - [#10920] SQL Server 不存在或访问被拒绝。
+20090429 20:34:09 - [#10244] SQL Server 不存在或访问被拒绝。
+20090429 20:37:09 - [#10244] SQL Server 不存在或访问被拒绝。

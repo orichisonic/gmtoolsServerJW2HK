@@ -1,0 +1,9 @@
+20081229 10:07:30 - [#2736] 服务器IP222.73.118.60在 sysservers 中找不到服务器 '222.73.118.60'。请执行 sp_addlinkedserver 将该服务器添加到 sysservers。
+20081229 10:07:39 - [#2736] 服务器IP222.73.118.60在 sysservers 中找不到服务器 '222.73.118.60'。请执行 sp_addlinkedserver 将该服务器添加到 sysservers。
+20081229 15:04:59 - [#6112] 伺服器IP124.74.198.168长度不能小于 0。
+参数名: length
+20081229 15:06:36 - [#6112] 服务器IP125.211.204.60在 sysservers 中找不到服务器 '125.211.204.60'。请执行 sp_addlinkedserver 将该服务器添加到 sysservers。
+20081229 15:06:37 - [#6112] 服务器IP222.73.118.60在 sysservers 中找不到服务器 '222.73.118.60'。请执行 sp_addlinkedserver 将该服务器添加到 sysservers。
+20081229 15:06:38 - [#6112] 服务器IP121.9.222.60在 sysservers 中找不到服务器 '121.9.222.60'。请执行 sp_addlinkedserver 将该服务器添加到 sysservers。
+20081229 15:06:39 - [#6112] 服务器IP221.236.14.186在 sysservers 中找不到服务器 '221.236.14.186'。请执行 sp_addlinkedserver 将该服务器添加到 sysservers。
+20081229 15:06:40 - [#6112] 服务器IP218.213.69.243在 sysservers 中找不到服务器 '218.213.69.243'。请执行 sp_addlinkedserver 将该服务器添加到 sysservers。
